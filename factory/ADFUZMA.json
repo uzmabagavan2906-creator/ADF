@@ -1,0 +1,9 @@
+{
+	"name": "ADFUZMA",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bbe6472f-1165-496a-963c-af51e2ca9ad0",
+		"tenantId": "e6e6f8d0-66ce-423c-8c91-c0b5dc8972e1"
+	}
+}
