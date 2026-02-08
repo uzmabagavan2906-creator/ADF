@@ -1,1 +1,25 @@
-incremental load
+{
+  "orders": [
+    {
+      "orderId": "ORD1001",
+      "customerId": "CUST501",
+      "orderDate": "2025-02-01",
+      "updatedDate": "2025-02-03",
+      "amount": 1250.75
+    },
+    {
+      "orderId": "ORD1002",
+      "customerId": "CUST502",
+      "orderDate": "2025-02-02",
+      "updatedDate": "2025-02-04",
+      "amount": 980.00
+    },
+    {
+      "orderId": "ORD1003",
+      "customerId": "CUST503",
+      "orderDate": "2025-02-05",
+      "updatedDate": "2025-02-06",
+      "amount": 2100.50
+    }
+  ]
+}
